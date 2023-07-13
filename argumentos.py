@@ -3,6 +3,9 @@
 # python argumentos 8 30
 
 import sys
+import funcoes
+
+funcoes.clear_screen()
 
 linha = '-' * 80
 argumentos = sys.argv
